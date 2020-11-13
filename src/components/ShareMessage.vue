@@ -1,4 +1,4 @@
-<<template>
+<template>
   <div class="share">
     <p>シェア</p>
     <textarea v-model="share"></textarea>
